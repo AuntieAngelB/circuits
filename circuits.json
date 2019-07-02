@@ -1,0 +1,623 @@
+var json = {
+  "f1circuitsList": [
+
+[
+  {
+    "": 0,
+    "name": "Albert Park Grand Prix Circuit",
+    "location": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8497,
+    "lng": 144.968
+  },
+  {
+    "": 1,
+    "name": "Sepang International Circuit",
+    "location": "Kuala Lumpur",
+    "country": "Malaysia",
+    "lat": 2.76083,
+    "lng": 101.738
+  },
+  {
+    "": 2,
+    "name": "Bahrain International Circuit",
+    "location": "Sakhir",
+    "country": "Bahrain",
+    "lat": 26.0325,
+    "lng": 50.5106
+  },
+  {
+    "": 3,
+    "name": "Circuit de Barcelona-Catalunya",
+    "location": "Montmel�_",
+    "country": "Spain",
+    "lat": 41.57,
+    "lng": 2.26111
+  },
+  {
+    "": 4,
+    "name": "Istanbul Park",
+    "location": "Istanbul",
+    "country": "Turkey",
+    "lat": 40.9517,
+    "lng": 29.405
+  },
+  {
+    "": 5,
+    "name": "Circuit de Monaco",
+    "location": "Monte-Carlo",
+    "country": "Monaco",
+    "lat": 43.7347,
+    "lng": 7.420560000000001
+  },
+  {
+    "": 6,
+    "name": "Circuit Gilles Villeneuve",
+    "location": "Montreal",
+    "country": "Canada",
+    "lat": 45.5,
+    "lng": -73.5228
+  },
+  {
+    "": 7,
+    "name": "Circuit de Nevers Magny-Cours",
+    "location": "Magny Cours",
+    "country": "France",
+    "lat": 46.8642,
+    "lng": 3.16361
+  },
+  {
+    "": 8,
+    "name": "Silverstone Circuit",
+    "location": "Silverstone",
+    "country": "UK",
+    "lat": 52.0786,
+    "lng": -1.01694
+  },
+  {
+    "": 9,
+    "name": "Hockenheimring",
+    "location": "Hockenheim",
+    "country": "Germany",
+    "lat": 49.3278,
+    "lng": 8.56583
+  },
+  {
+    "": 10,
+    "name": "Hungaroring",
+    "location": "Budapest",
+    "country": "Hungary",
+    "lat": 47.5789,
+    "lng": 19.2486
+  },
+  {
+    "": 11,
+    "name": "Valencia Street Circuit",
+    "location": "Valencia",
+    "country": "Spain",
+    "lat": 39.4589,
+    "lng": -0.331667
+  },
+  {
+    "": 12,
+    "name": "Circuit de Spa-Francorchamps",
+    "location": "Spa",
+    "country": "Belgium",
+    "lat": 50.4372,
+    "lng": 5.97139
+  },
+  {
+    "": 13,
+    "name": "Autodromo Nazionale di Monza",
+    "location": "Monza",
+    "country": "Italy",
+    "lat": 45.6156,
+    "lng": 9.28111
+  },
+  {
+    "": 14,
+    "name": "Marina Bay Street Circuit",
+    "location": "Marina Bay",
+    "country": "Singapore",
+    "lat": 1.2914,
+    "lng": 103.86399999999999
+  },
+  {
+    "": 15,
+    "name": "Fuji Speedway",
+    "location": "Oyama",
+    "country": "Japan",
+    "lat": 35.3717,
+    "lng": 138.92700000000002
+  },
+  {
+    "": 16,
+    "name": "Shanghai International Circuit",
+    "location": "Shanghai",
+    "country": "China",
+    "lat": 31.3389,
+    "lng": 121.22
+  },
+  {
+    "": 17,
+    "name": "Aut�_dromo Jos̩ Carlos Pace",
+    "location": "Ṣo Paulo",
+    "country": "Brazil",
+    "lat": -23.7036,
+    "lng": -46.6997
+  },
+  {
+    "": 18,
+    "name": "Indianapolis Motor Speedway",
+    "location": "Indianapolis",
+    "country": "USA",
+    "lat": 39.795,
+    "lng": -86.2347
+  },
+  {
+    "": 19,
+    "name": "N�_rburgring",
+    "location": "N�_rburg",
+    "country": "Germany",
+    "lat": 50.3356,
+    "lng": 6.9475
+  },
+  {
+    "": 20,
+    "name": "Autodromo Enzo e Dino Ferrari",
+    "location": "Imola",
+    "country": "Italy",
+    "lat": 44.3439,
+    "lng": 11.7167
+  },
+  {
+    "": 21,
+    "name": "Suzuka Circuit",
+    "location": "Suzuka",
+    "country": "Japan",
+    "lat": 34.8431,
+    "lng": 136.541
+  },
+  {
+    "": 22,
+    "name": "A1-Ring",
+    "location": "Spielburg",
+    "country": "Austria",
+    "lat": 47.2197,
+    "lng": 14.7647
+  },
+  {
+    "": 23,
+    "name": "Yas Marina Circuit",
+    "location": "Abu Dhabi",
+    "country": "UAE",
+    "lat": 24.4672,
+    "lng": 54.6031
+  },
+  {
+    "": 24,
+    "name": "Aut�_dromo Juan y Oscar G��lvez",
+    "location": "Buenos Aires",
+    "country": "Argentina",
+    "lat": -34.6943,
+    "lng": -58.4593
+  },
+  {
+    "": 25,
+    "name": "Circuito de Jerez",
+    "location": "Jerez de la Frontera",
+    "country": "Spain",
+    "lat": 36.7083,
+    "lng": -6.03417
+  },
+  {
+    "": 26,
+    "name": "Aut�_dromo do Estoril",
+    "location": "Estoril",
+    "country": "Portugal",
+    "lat": 38.7506,
+    "lng": -9.394169999999999
+  },
+  {
+    "": 27,
+    "name": "Okayama International Circuit",
+    "location": "Okayama",
+    "country": "Japan",
+    "lat": 34.915,
+    "lng": 134.221
+  },
+  {
+    "": 28,
+    "name": "Adelaide Street Circuit",
+    "location": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9272,
+    "lng": 138.61700000000002
+  },
+  {
+    "": 29,
+    "name": "Kyalami",
+    "location": "Midrand",
+    "country": "South Africa",
+    "lat": -25.9894,
+    "lng": 28.0767
+  },
+  {
+    "": 30,
+    "name": "Donington Park",
+    "location": "Castle Donington",
+    "country": "UK",
+    "lat": 52.8306,
+    "lng": -1.3752799999999998
+  },
+  {
+    "": 31,
+    "name": "Aut�_dromo Hermanos Rodr�_guez",
+    "location": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.4042,
+    "lng": -99.0907
+  },
+  {
+    "": 32,
+    "name": "Phoenix street circuit",
+    "location": "Phoenix",
+    "country": "USA",
+    "lat": 33.4479,
+    "lng": -112.075
+  },
+  {
+    "": 33,
+    "name": "Circuit Paul Ricard",
+    "location": "Le Castellet",
+    "country": "France",
+    "lat": 43.2506,
+    "lng": 5.79167
+  },
+  {
+    "": 34,
+    "name": "Korean International Circuit",
+    "location": "Yeongam County",
+    "country": "Korea",
+    "lat": 34.7333,
+    "lng": 126.417
+  },
+  {
+    "": 35,
+    "name": "Aut�_dromo Internacional Nelson Piquet",
+    "location": "Rio de Janeiro",
+    "country": "Brazil",
+    "lat": -22.9756,
+    "lng": -43.395
+  },
+  {
+    "": 36,
+    "name": "Detroit Street Circuit",
+    "location": "Detroit",
+    "country": "USA",
+    "lat": 42.3298,
+    "lng": -83.0401
+  },
+  {
+    "": 37,
+    "name": "Brands Hatch",
+    "location": "Kent",
+    "country": "UK",
+    "lat": 51.3569,
+    "lng": 0.263056
+  },
+  {
+    "": 38,
+    "name": "Circuit Park Zandvoort",
+    "location": "Zandvoort",
+    "country": "Netherlands",
+    "lat": 52.3888,
+    "lng": 4.54092
+  },
+  {
+    "": 39,
+    "name": "Zolder",
+    "location": "Heusden-Zolder",
+    "country": "Belgium",
+    "lat": 50.9894,
+    "lng": 5.25694
+  },
+  {
+    "": 40,
+    "name": "Dijon-Prenois",
+    "location": "Dijon",
+    "country": "France",
+    "lat": 47.3625,
+    "lng": 4.89913
+  },
+  {
+    "": 41,
+    "name": "Fair Park",
+    "location": "Dallas",
+    "country": "USA",
+    "lat": 32.7774,
+    "lng": -96.7587
+  },
+  {
+    "": 42,
+    "name": "Long Beach",
+    "location": "California",
+    "country": "USA",
+    "lat": 33.7651,
+    "lng": -118.189
+  },
+  {
+    "": 43,
+    "name": "Las Vegas Street Circuit",
+    "location": "Nevada",
+    "country": "USA",
+    "lat": 36.1162,
+    "lng": -115.17399999999999
+  },
+  {
+    "": 44,
+    "name": "Jarama",
+    "location": "Madrid",
+    "country": "Spain",
+    "lat": 40.6171,
+    "lng": -3.58558
+  },
+  {
+    "": 45,
+    "name": "Watkins Glen",
+    "location": "New York State",
+    "country": "USA",
+    "lat": 42.3369,
+    "lng": -76.9272
+  },
+  {
+    "": 46,
+    "name": "Scandinavian Raceway",
+    "location": "Anderstorp",
+    "country": "Sweden",
+    "lat": 57.2653,
+    "lng": 13.6042
+  },
+  {
+    "": 47,
+    "name": "Mosport International Raceway",
+    "location": "Ontario",
+    "country": "Canada",
+    "lat": 44.0481,
+    "lng": -78.6756
+  },
+  {
+    "": 48,
+    "name": "Montju��c",
+    "location": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3664,
+    "lng": 2.15167
+  },
+  {
+    "": 49,
+    "name": "Nivelles-Baulers",
+    "location": "Brussels",
+    "country": "Belgium",
+    "lat": 50.6211,
+    "lng": 4.3269400000000005
+  },
+  {
+    "": 50,
+    "name": "Charade Circuit",
+    "location": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7472,
+    "lng": 3.0388900000000003
+  },
+  {
+    "": 51,
+    "name": "Circuit Mont-Tremblant",
+    "location": "Quebec",
+    "country": "Canada",
+    "lat": 46.1877,
+    "lng": -74.6099
+  },
+  {
+    "": 52,
+    "name": "Rouen-Les-Essarts",
+    "location": "Rouen",
+    "country": "France",
+    "lat": 49.3306,
+    "lng": 1.00458
+  },
+  {
+    "": 53,
+    "name": "Le Mans",
+    "location": "Le Mans",
+    "country": "France",
+    "lat": 47.95,
+    "lng": 0.22423099999999999
+  },
+  {
+    "": 54,
+    "name": "Reims-Gueux",
+    "location": "Reims",
+    "country": "France",
+    "lat": 49.2542,
+    "lng": 3.9308300000000003
+  },
+  {
+    "": 55,
+    "name": "Prince George Circuit",
+    "location": "Eastern Cape Province",
+    "country": "South Africa",
+    "lat": -33.0486,
+    "lng": 27.8736
+  },
+  {
+    "": 56,
+    "name": "Zeltweg",
+    "location": "Styria",
+    "country": "Austria",
+    "lat": 47.2039,
+    "lng": 14.7478
+  },
+  {
+    "": 57,
+    "name": "Aintree",
+    "location": "Liverpool",
+    "country": "UK",
+    "lat": 53.4769,
+    "lng": -2.94056
+  },
+  {
+    "": 58,
+    "name": "Circuito da Boavista",
+    "location": "Oporto",
+    "country": "Portugal",
+    "lat": 41.1705,
+    "lng": -8.67325
+  },
+  {
+    "": 59,
+    "name": "Riverside International Raceway",
+    "location": "California",
+    "country": "USA",
+    "lat": 33.937,
+    "lng": -117.273
+  },
+  {
+    "": 60,
+    "name": "AVUS",
+    "location": "Berlin",
+    "country": "Germany",
+    "lat": 52.4806,
+    "lng": 13.2514
+  },
+  {
+    "": 61,
+    "name": "Monsanto Park Circuit",
+    "location": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7197,
+    "lng": -9.20306
+  },
+  {
+    "": 62,
+    "name": "Sebring International Raceway",
+    "location": "Florida",
+    "country": "USA",
+    "lat": 27.4547,
+    "lng": -81.3483
+  },
+  {
+    "": 63,
+    "name": "Ain Diab",
+    "location": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.5786,
+    "lng": -7.6875
+  },
+  {
+    "": 64,
+    "name": "Pescara Circuit",
+    "location": "Pescara",
+    "country": "Italy",
+    "lat": 42.475,
+    "lng": 14.1508
+  },
+  {
+    "": 65,
+    "name": "Circuit Bremgarten",
+    "location": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9589,
+    "lng": 7.40194
+  },
+  {
+    "": 66,
+    "name": "Circuit de Pedralbes",
+    "location": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3903,
+    "lng": 2.11667
+  },
+  {
+    "": 67,
+    "name": "Buddh International Circuit",
+    "location": "Uttar Pradesh",
+    "country": "India",
+    "lat": 28.3487,
+    "lng": 77.5331
+  },
+  {
+    "": 68,
+    "name": "Circuit of the Americas",
+    "location": "Austin",
+    "country": "USA",
+    "lat": 30.1328,
+    "lng": -97.6411
+  },
+  {
+    "": 69,
+    "name": "Red Bull Ring",
+    "location": "Spielburg",
+    "country": "Austria",
+    "lat": 47.2197,
+    "lng": 14.7647
+  },
+  {
+    "": 70,
+    "name": "Sochi Autodrom",
+    "location": "Sochi",
+    "country": "Russia",
+    "lat": 43.4057,
+    "lng": 39.9578
+  },
+  {
+    "": 71,
+    "name": "Port Imperial Street Circuit",
+    "location": "New Jersey",
+    "country": "USA",
+    "lat": 40.7769,
+    "lng": -74.0111
+  },
+  {
+    "": 72,
+    "name": "Baku City Circuit",
+    "location": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3725,
+    "lng": 49.8533
+  }
+]
+};
+var geojson = {
+  type: "FeatureCollection",
+  features: [],
+};
+
+for (i = 0; i < json.f1circuitsList.length; i++) {
+  if (window.CP.shouldStopExecution(1)) {
+    break;
+  }
+  geojson.features.push({
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [json.f1circuitsList[i].longitude, json.f1circuitsList[i].latitude]
+    },
+    "properties": {
+      "id": json.f1circuitsList[i].id,
+      "stationName": json.f1circuitsList[i].stationName,
+      "totalDocks": json.f1circuitsList[i].totalDocks,
+      "station": json.f1circuitsList[i].stationName,
+      "stAddress1": json.f1circuitsList[i].stAddress1,
+      "stAddress2": json.f1circuitsList[i].stAddress2,
+      "city": json.f1circuitsList[i].city,
+      "postalCode": json.f1circuitsList[i].postalCode,
+      "testStation": json.f1circuitsList[i].testStation
+    }
+  });
+}
+
+window.CP.exitedLoop(1);
+
+document.getElementById('json').innerHTML = JSON.stringify(json, null, 2);
+document.getElementById('geojson').innerHTML = JSON.stringify(geojson, null, 2);
